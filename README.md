@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+- 🔭 I’m currently working on my job search for a full stack web developer position.
+  
+- 🌱 I’m currently learning React and Django.
+
 - ⚡ Fun fact: I love Chef's Table - a beautiful series on Netflix.
 - ⚡ Absolute fact: Donald Trump and Mike Pence are fools. 
 
