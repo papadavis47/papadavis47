@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on multiple Next.js and Gatsby Projects
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about React
-- 📫 How to reach me: @papadavis47 on Twitter
+- 📫 Follow me: @papadavis47 on Twitter
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: I love Chef's Table - a beautiful series on Netflix.
+- ⚡ Fun fact: I love **Chef's Table** - a beautiful multi season series on Netflix
 - ⚡ Absolute fact: Life is precious 💯
 
 Check out my programming blog by clicking [here](https://comfortablefeelingdumb.com) ✅
