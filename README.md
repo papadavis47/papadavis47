@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on multiple Next.js and Gatsby Projects
 - 🌱 I’m currently learning Rust
-- 💬 Ask me about React
+- 💬 Ask me about React, Next.js 12 or building APIs 🤹‍♂️
 - 📫 Follow me: @papadavis47 on Twitter
 - 😄 Pronouns: he/him
 
