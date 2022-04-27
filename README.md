@@ -9,6 +9,6 @@
 
 - ⚡ Fun fact: I love **Chef's Table** - a beautiful multi season series on Netflix
 - ⚡ Absolute fact: Life is precious 💯
-- 😀 Recent thought: "The new Warp terminal looks very cool :)"
+- 😀 Recent thought: "The new Warp terminal looks very cool 🏂🏼"
 
 Check out my programming blog by clicking [here](https://comfortablefeelingdumb.com) ✅
