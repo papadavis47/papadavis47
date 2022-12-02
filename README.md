@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 
-- 🔭 I’m currently working with TypeScript on multiple Next.js projects
+- 🔭 I’m currently working with on multiple TypeScript / Next.js projects
 - 🏆 I think Prisma and PlanetScale are awesome!
 - 🌱 Rust is fascinating
 - 💬 Ask me about React, Next.js, Remix or building APIs 🤹‍♂️
