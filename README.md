@@ -1,9 +1,9 @@
 ### Hello Everyone 👋
 
-- 🔭 I’m currently working with on multiple TypeScript / Next.js projects
+- 🔭 I’m currently working on multiple TypeScript / Next.js projects
 - 🏆 I think Prisma and PlanetScale are awesome!
 - 🌱 Rust is fascinating
-- 💬 Ask me about React, Next.js, Remix or building APIs 🤹‍♂️
+- 💬 Ask me about React, Next.js, Tanstack or building APIs 🤹‍♂️
 - 📫 Follow me: @papadavis47 on Twitter
 - 😄 Pronouns: he/him
 
