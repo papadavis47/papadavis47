@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 
-- 🔭 I’m currently working on multiple Rust, TypeScript / Next.js / Astro projects 😄
+- 🔭 I’m currently working on multiple Rust, Go, TypeScript / Next.js / Astro projects 😄
 - 🏆 I think Drizzle ORM, Prisma, Supabase and Turso are awesome!
 - 🌱 Rust is wonderful 💯
 - 💬 I am most passionate about: TypeScript, Rust, Next.js, TanStack and Astro 🤹‍♂️
