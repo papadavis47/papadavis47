@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I love **Chef's Table** - a beautiful multi season series on Netflix 🎥
 - ⚡ Absolute facts: Life is precious, exercise is important and having kids is worth it 💯
 - 😀 Recent thought: "SQLite is the GOAT 🏂🏼"
-- 🎨 Chakra UI, Radix UI, TailwindCSS and Panda CSS are some of my favorite tools 😻
+- 🎨 Chakra UI, Radix UI, TailwindCSS and Material UI are some of my favorite tools 😻
 - ⚡ [Pigment CSS](https://github.com/mui/pigment-css) is fascinating 💯
-- 📫 Follow me: @papadavis47 on Twitter and on Threads
+- 📫 Follow me: @johnwilliamdavis.com on Bluesky
 
 Check out my programming blog by clicking [here](https://comfortablefeelingdumb.com) ✅
