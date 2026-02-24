@@ -6,8 +6,8 @@
 - 💬 I am most passionate about: TypeScript, Rust, Go, React, Next.js, Vue, Nuxt.js🤹‍♂️
 - ⚡ Fun fact: I love **Chef's Table** - a beautiful multi season series on Netflix 🎥
 - ⚡ Absolute facts: Life is precious, exercise is important and having kids is worth it 💯
-- 😀 Recent thought: "SQLite is the GOAT 🏂🏼"
-- 🎨 TanStack Start, PandaCSS, Nuxt UI, and Ratatui are some of my favorite libraries 😻
+- 😀 Recent thought: "Zed, Claude Code and Amp are amazing! 🏂🏼"
+- 🎨 TanStack Start, PandaCSS, Nuxt UI and Ratatui are some of my favorite libraries 😻
 - ⚡ [Ark UI](https://ark-ui.com/) is fascinating 💯
 - 📫 Follow me: @johnwilliamdavis.com on Bluesky
 
